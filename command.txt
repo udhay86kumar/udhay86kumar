@@ -1,1 +1,6 @@
 This is my git reposinary,git master 
+git glone "git link "
+git init 
+git commit -m "message"
+git push
+git pull "request"
