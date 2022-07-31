@@ -1,4 +1,4 @@
-import sys
+
 Array = [63, 75, 13, 2, 441] # loop through each and every element in the array
 for element1 in range(len(Array)):
 # To determine the least element in the remaining list
