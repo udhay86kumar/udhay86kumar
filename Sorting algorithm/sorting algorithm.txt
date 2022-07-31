@@ -1,1 +1,3 @@
-Bubble sort algorithm most use in first bubblke sort 
+selection sort two index 
+using two element 
+
